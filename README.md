@@ -42,7 +42,7 @@
 
 <img align="left" alt="Vertex" width="70px" src="https://miro.medium.com/max/549/1*g-YZo7s0j46lDQfMmQ955A.png">
 
-<img align="left" alt="Vertex" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+<img align="left" alt="Scikit_learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
 
 
 <img align="left" alt="Airflow" width="50px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
