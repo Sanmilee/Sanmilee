@@ -32,7 +32,7 @@
 
 <img align="left" alt="Keras" width="80px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png">
 
-<img align="left" alt="Kubeflow" width="90px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
+<img align="left" alt="Kubeflow" width="70px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
 
 <img align="left" alt="Vertex" width="70px" src="https://miro.medium.com/max/549/1*g-YZo7s0j46lDQfMmQ955A.png">
 
