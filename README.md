@@ -10,7 +10,13 @@
 
 #### When I am not deploying ML models in prod, I enjoy playing football or appreciating the adventurous world of astrophysics. Fun pair programming and collaborations are welcome anytime.
 
+***
 
+#### Interesting personal ML projects:
+
+
+
+***
 
 ![Ariyo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Sanmilee&show_icons=true&theme=radical)
 
