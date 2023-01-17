@@ -1,4 +1,4 @@
-## Hey Stranger, I am Ariyo Sanmi!
+## Hey Stranger, I'm Ariyo Sanmi!
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://ariyosanmi.com/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://ariyosanmi.com/)
