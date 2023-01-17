@@ -42,7 +42,7 @@
 
 <img align="left" alt="Kubeflow" width="100px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
 
-<img align="left" alt="Vertex" width="100px" src="https://www.thegradientdescent.com/assets/images/vertex.png">
+<img align="left" alt="Vertex" width="100px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/vertex_ai_PwdDHFT.png">
 
 <img align="left" alt="Airflow" width="100px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
 
