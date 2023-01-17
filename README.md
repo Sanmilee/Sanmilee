@@ -22,33 +22,30 @@
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
 
-<img align="left" alt="TensorFlow" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="TensorFlow" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="Terminal" width="100px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
 
 ***
 
-<img align="left" alt="Terminal" width="100px" src="https://www.vlrtraining.in/wp-content/uploads/2020/11/logo-gcp.png">
+<img align="left" alt="GCP" width="26px" src="https://www.vlrtraining.in/wp-content/uploads/2020/11/logo-gcp.png">
 
 
-<img align="left" alt="Keras" width="100px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png">
+<img align="left" alt="Keras" width="80px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png">
 
-<img align="left" alt="Kubeflow" width="100px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
+<img align="left" alt="Kubeflow" width="80px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
 
-<img align="left" alt="Vertex" width="100px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/vertex_ai_PwdDHFT.png">
+<img align="left" alt="Vertex" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/vertex_ai_PwdDHFT.png">
 
-<img align="left" alt="Airflow" width="100px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
+<img align="left" alt="Airflow" width="26px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
 
 <img align="left" alt="Looker" width="100px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1620123808/hevo-learn/Looker-Logo.png">
 
-<img align="left" alt="Docker" width="100px" src="https://manas.tech/images/uploads/2015/docker.png">
+<img align="left" alt="Docker" width="26px" src="https://manas.tech/images/uploads/2015/docker.png">
 
 
 
