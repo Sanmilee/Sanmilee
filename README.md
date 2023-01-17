@@ -30,7 +30,7 @@
 <img align="left" alt="GCP" width="50px" src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png">
 
 
-<img align="left" alt="Keras" width="80px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png">
+<img align="left" alt="Keras" width="60px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png">
 
 <img align="left" alt="Kubeflow" width="70px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
 
@@ -38,7 +38,7 @@
 
 <img align="left" alt="Airflow" width="50px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
 
-<img align="left" alt="Looker" width="50px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1620123808/hevo-learn/Looker-Logo.png">
+<img align="left" alt="Looker" width="60px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1620123808/hevo-learn/Looker-Logo.png">
 
 <img align="left" alt="Docker" width="50px" src="https://manas.tech/images/uploads/2015/docker.png">
 
