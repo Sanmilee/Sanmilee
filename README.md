@@ -24,10 +24,7 @@
 
 <img align="left" alt="TensorFlow" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-
-
+<img align="left" alt="SQL" width="26px" src="https://www.dataquest.io/wp-content/uploads/2021/11/why-sql-consumes-so-much-memory-header.webp">
 
 
 <img align="left" alt="GCP" width="50px" src="https://www.vlrtraining.in/wp-content/uploads/2020/11/logo-gcp.png">
