@@ -51,5 +51,6 @@
 
 <img align="left" alt="Docker" width="50px" src="https://manas.tech/images/uploads/2015/docker.png">
 
+<img align="left" alt="Docker" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
 
 
