@@ -11,9 +11,6 @@
 #### When I am not deploying ML models in prod, I enjoy playing football or appreciating the adventurous world of astrophysics. Fun pair programming and collaborations are welcome anytime.
 
 
-[![Ariyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanmilee&show_icons=true&theme=radical)](https://github.com/Sanmilee/github-readme-stats)
-
-
 
 ![Ariyo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Sanmilee&show_icons=true&theme=radical)
 
@@ -34,5 +31,27 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="Terminal" width="100px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+
+
+***
+
+<img align="left" alt="Terminal" width="100px" src="https://www.vlrtraining.in/wp-content/uploads/2020/11/logo-gcp.png">
+
+
+<img align="left" alt="Keras" width="100px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png">
+
+<img align="left" alt="Kubeflow" width="100px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
+
+<img align="left" alt="Vertex" width="100px" src="https://www.thegradientdescent.com/assets/images/vertex.png">
+
+<img align="left" alt="Airflow" width="100px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
+
+<img align="left" alt="Looker" width="100px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1620123808/hevo-learn/Looker-Logo.png">
+
+<img align="left" alt="Docker" width="100px" src="https://manas.tech/images/uploads/2015/docker.png">
+
+
+
+
 
 
