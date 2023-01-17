@@ -18,7 +18,7 @@
 
 ***
 
-### Tools:
+### Teckstack:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
 
@@ -27,7 +27,7 @@
 <img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png">
 
 
-<img align="left" alt="GCP" width="50px" src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png">
+<img align="left" alt="GCP" width="70px" src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png">
 
 
 <img align="left" alt="Keras" width="60px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png">
