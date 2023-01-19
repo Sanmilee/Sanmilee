@@ -8,7 +8,7 @@
 #### I am a Machine Learning Engineer with 5+ years of experience in developing and deploying Machine Learning models. My current focus is on developing end-to-end ci/cd model pipeline using cutting edge tools like Vertex AI, Kubeflow and TFx.
 
 
-When I am not deploying ML models in prod, I enjoy playing football or appreciating the adventurous world of astrophysics. Fun pair programming and collaborations are welcome anytime [(contact me)](https://ariyosanmi.com/).
+#### When I am not deploying ML models in prod, I enjoy playing football or appreciating the adventurous world of astrophysics. Fun pair programming and collaborations are welcome anytime [(contact me)](https://ariyosanmi.com/).
 
 ***
 
