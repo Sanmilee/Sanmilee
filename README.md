@@ -14,11 +14,7 @@
 
 #### Interesting personal ML projects:
 
-
-
-***
-
-![Ariyo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Sanmilee&show_icons=true&theme=radical)
+<!-- ![Ariyo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Sanmilee&show_icons=true&theme=radical) -->
 
 ***
 
