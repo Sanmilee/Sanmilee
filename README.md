@@ -41,15 +41,13 @@
 
 <img align="left" alt="Vertex" width="90px" src="https://miro.medium.com/max/549/1*g-YZo7s0j46lDQfMmQ955A.png">
 
-<img align="left" alt="Scikit_learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+<img align="left" alt="Scikit_learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
 
 
-<img align="left" alt="Airflow" width="50px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
+<img align="left" alt="Airflow" width="60px" src="https://i0.wp.com/big-data-demystified.ninja/wp-content/uploads/2020/08/AirflowLogo.png?fit=1024%2C396&ssl=1">
 
-<!-- <img align="left" alt="Looker" width="60px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1620123808/hevo-learn/Looker-Logo.png"> -->
 
-<img align="left" alt="Docker" width="50px" src="https://manas.tech/images/uploads/2015/docker.png">
+<img align="left" alt="Docker" width="60px" src="https://manas.tech/images/uploads/2015/docker.png">
 
-<!-- <img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"> -->
 
 
