@@ -26,19 +26,23 @@
 
 <img align="left" alt="Python" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
 
+<img align="left" alt="Python" width="20px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png
+" />
+
+
 <img align="left" alt="TensorFlow" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
 
 <!-- <img align="left" alt="SQL" width="20px" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"> -->
 
 
-<img align="left" alt="GCP" width="70px" src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png">
+<img align="left" alt="GCP" width="80px" src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png">
 
 
 <!-- <img align="left" alt="Keras" width="50px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png"> -->
 
 <img align="left" alt="Kubeflow" width="70px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
 
-<img align="left" alt="Vertex" width="70px" src="https://miro.medium.com/max/549/1*g-YZo7s0j46lDQfMmQ955A.png">
+<img align="left" alt="Vertex" width="80px" src="https://miro.medium.com/max/549/1*g-YZo7s0j46lDQfMmQ955A.png">
 
 <img align="left" alt="Scikit_learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
 
