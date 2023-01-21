@@ -39,9 +39,9 @@
 
 <!-- <img align="left" alt="Keras" width="50px" src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png"> -->
 
-<img align="left" alt="Kubeflow" width="70px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
+<img align="left" alt="Kubeflow" width="80px" src="https://raw.githubusercontent.com/saschagrunert/kubeflow-data-science-on-steroids/master/img/kubeflow-logo.png">
 
-<img align="left" alt="Vertex" width="80px" src="https://miro.medium.com/max/549/1*g-YZo7s0j46lDQfMmQ955A.png">
+<img align="left" alt="Vertex" width="90px" src="https://miro.medium.com/max/549/1*g-YZo7s0j46lDQfMmQ955A.png">
 
 <img align="left" alt="Scikit_learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
 
