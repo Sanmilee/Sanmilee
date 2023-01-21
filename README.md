@@ -26,7 +26,7 @@
 
 <img align="left" alt="Python" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
 
-<img align="left" alt="Python" width="50px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png">
+<img align="left" alt="Python" width="70px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png">
 
 
 <img align="left" alt="TensorFlow" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
