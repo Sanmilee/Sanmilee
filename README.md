@@ -21,7 +21,7 @@
  -->
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Sanmilee/ML_Project/blob/master/Airflow/images/dag_img_2.png">
+    <img width="60%" src="https://github.com/Sanmilee/ML_Project/blob/master/1-Airflow/images/dag_img_2.png">
 </p>
 
 
