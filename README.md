@@ -29,7 +29,7 @@
 
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Sanmilee/ML_Project/blob/master/2-TFX_Pipeline/images/tfx.JPG">
+    <img width="80%" src="https://github.com/Sanmilee/ML_Project/blob/master/2-TFX_Pipeline/images/tfx.JPG">
 </p>
 
 
