@@ -5,7 +5,8 @@
 
 
 
-#### I am a Machine Learning Engineer with 5+ years of experience in developing and deploying Machine Learning models. My current focus is on developing end-to-end ci/cd model pipeline using cutting edge tools like Vertex AI, Kubeflow and TFx.
+#### I am a Machine Learning Engineer with 5+ years of experience in developing and deploying scalable and robust machine learning solutions in production environment. My expertise includes collaborating with cross-functional teams to achieve project goals using cutting-edge machine learning best practices.
+
 
 
 #### When I am not deploying ML models in prod, I enjoy playing football or appreciating the adventurous world of astrophysics. Fun pair programming and collaborations are welcome anytime [(contact me)](https://ariyosanmi.com/).
@@ -17,15 +18,12 @@
 #### 1. [`Apache Airflow and Google Cloud Composer ML Workflow Orchestrating`](https://github.com/Sanmilee/ML_Project/tree/master/1-Airflow): This project demonstrate the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. 
 
 
-<!-- <div style="text-align:center"><img src="https://github.com/Sanmilee/ML_Project/blob/master/Airflow/images/dag_img_2.png" height="300" /></div>
- -->
-
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/Sanmilee/ML_Project/blob/master/1-Airflow/images/dag_img_2.png">
 </p>
 
 
-#### 2. [`TFX Orchestrating for ML Pipeline`](https://github.com/Sanmilee/ML_Project/tree/master/2-TFX_Pipeline/3-TFX_Orchestration_Pipeline): This project demonstrate the use of TFX (TensorFlow Extended) as a framework for building end-to-end ML pipelines that leverages the power of TensorFlow. TFX provides a set of components that can be assembled to create a complete ML workflow, including data ingestion, data validation, training, evaluation, and serving. One of the key features of TFX is its ability to orchestrate the different components of the machine learning pipeline.
+#### 2. [`TFX Orchestrating for ML Pipeline`](https://github.com/Sanmilee/ML_Project/tree/master/2-TFX_Pipeline/3-TFX_Orchestration_Pipeline): This project illustrates the use of TFX (TensorFlow Extended) as a framework for building end-to-end ML pipelines that leverages the power of TensorFlow. TFX provides a set of components that can be assembled to create a complete ML workflow, including data ingestion, data validation, training, evaluation, and serving. One of the key features of TFX is its ability to orchestrate the different components of the machine learning pipeline.
 
 
 <p align="center" width="100%">
