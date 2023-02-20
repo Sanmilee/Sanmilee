@@ -32,7 +32,6 @@
 
 
 
-#### 3. [`Vertex AI Orchestration with Kubeflow`](https://github.com/Sanmilee/ML_Project/tree/master/3-Kubeflow_Pipeline)
 
 
 
