@@ -23,7 +23,7 @@
 </p>
 
 
-#### 2. [`TFX Orchestrating for ML Pipeline`](https://github.com/Sanmilee/ML_Project/tree/master/2-TFX_Pipeline/3-TFX_Orchestration_Pipeline): This project illustrates the use of TFX (TensorFlow Extended) as a framework for building end-to-end ML pipelines that leverages the power of TensorFlow. TFX provides a set of components that can be assembled to create a complete ML workflow, including data ingestion, data validation, training, evaluation, and serving. One of the key features of TFX is its ability to orchestrate the different components of the machine learning pipeline.
+#### 3. [`TFX Orchestrating for ML Pipeline`](https://github.com/Sanmilee/ML_Project/tree/master/2-TFX_Pipeline/3-TFX_Orchestration_Pipeline): This project illustrates the use of TFX (TensorFlow Extended) as a framework for building end-to-end ML pipelines that leverages the power of TensorFlow. TFX provides a set of components that can be assembled to create a complete ML workflow, including data ingestion, data validation, training, evaluation, and serving. One of the key features of TFX is its ability to orchestrate the different components of the machine learning pipeline.
 
 
 <p align="center" width="100%">
