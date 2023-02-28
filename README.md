@@ -15,6 +15,11 @@
 
 ## Interesting personal ML projects:
 
+#### 1. [`Vertex AI Orchestration with Kubeflow`](https://github.com/Sanmilee/ML_Project/tree/master/3-Kubeflow_Pipeline)
+
+
+
+
 #### 2. [`Apache Airflow and Google Cloud Composer ML Workflow Orchestrating`](https://github.com/Sanmilee/ML_Project/tree/master/1-Airflow): This project demonstrate the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. This model is trained to detect fraudulent credit card transactions.
 
 
