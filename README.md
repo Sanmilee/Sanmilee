@@ -15,23 +15,26 @@
 
 ## Interesting personal ML projects:
 
-#### 1. [`Vertex AI Workflow Orchestration with Kubeflow`](https://github.com/Sanmilee/ML_Project/tree/master/3-Kubeflow_Pipeline): This project demonstrates the use of Kubeflow to build, train, deploy and serve ML models in a distributed manner across multiple nodes in a Kubernetes cluster.
-- ToDo
-
-
-#### 2. [`Apache Airflow and Google Cloud Composer ML Workflow Orchestrating`](https://github.com/Sanmilee/ML_Project/tree/master/1-Airflow): This project demonstrates the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. This model is trained to detect fraudulent credit card transactions.
-
+#### 1. [`Vertex AI for ML Workflow using Kubeflow`](https://github.com/Sanmilee/ML_Project/tree/master/1-Kubeflow_Pipeline): This project demonstrates the use of Kubeflow to simplify the entire ML workflow to build, train, deploy and serve ML models in a distributed manner across multiple nodes.
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Sanmilee/ML_Project/blob/master/1-Airflow/images/dag_img_2.png">
+    <img width="60%" src="https://github.com/Sanmilee/ML_Project/blob/master/1-Kubeflow_Pipeline/images/vertex_pipeline.png">
 </p>
 
 
-#### 3. [`TFX Orchestrating for ML Pipeline`](https://github.com/Sanmilee/ML_Project/tree/master/2-TFX_Pipeline/3-TFX_Orchestration_Pipeline): This project illustrates the use of TFX (TensorFlow Extended) as a framework for building end-to-end ML pipelines that leverages the power of TensorFlow. TFX provides a set of components that can be assembled to create a complete ML workflow, including data ingestion, data validation, training, evaluation, and serving. One of the key features of TFX is its ability to orchestrate the different components of the machine learning pipeline.
+#### 2. [`Apache Airflow and Google Cloud Composer ML Workflow Orchestrating`](https://github.com/Sanmilee/ML_Project/tree/master/2-Airflow): This project demonstrates the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. This model is trained to detect fraudulent credit card transactions.
 
 
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/Sanmilee/ML_Project/blob/master/2-TFX_Pipeline/images/tfx.JPG">
+    <img width="60%" src="https://github.com/Sanmilee/ML_Project/blob/master/2-Airflow/images/dag_img_2.png">
+</p>
+
+
+#### 3. [`End-to-end ML Pipeline with TFX`](https://github.com/Sanmilee/ML_Project/tree/master/3-TFX_Pipeline/3-TFX_Orchestration_Pipeline): This project illustrates the use of TFX (TensorFlow Extended) as a framework for building end-to-end ML pipelines that leverages the power of TensorFlow. TFX provides a set of components that can be assembled to create a complete ML workflow, including data ingestion, data validation, training, evaluation, and serving. One of the key features of TFX is its ability to orchestrate the different components of the machine learning pipeline.
+
+
+<p align="center" width="100%">
+    <img width="80%" src="https://github.com/Sanmilee/ML_Project/blob/master/3-TFX_Pipeline/images/tfx.JPG">
 </p>
 
 
